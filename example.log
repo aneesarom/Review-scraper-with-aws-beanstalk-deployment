@@ -1,0 +1,90 @@
+02/23/2023 02:37:23 PM INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+02/23/2023 02:37:23 PM INFO: [33mPress CTRL+C to quit[0m
+02/23/2023 02:37:23 PM INFO:  * Restarting with stat
+02/23/2023 02:37:23 PM WARNING:  * Debugger is active!
+02/23/2023 02:37:23 PM INFO:  * Debugger PIN: 976-816-822
+02/23/2023 02:37:43 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:37:43] "GET / HTTP/1.1" 200 -
+02/23/2023 02:37:43 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:37:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+02/23/2023 02:37:43 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:37:43] "`[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+02/23/2023 02:37:50 PM INFO: Succesfully connected big_box
+02/23/2023 02:37:50 PM INFO: Div is not available
+02/23/2023 02:37:52 PM INFO: Sucessfully entered product page
+02/23/2023 02:37:52 PM INFO: Able to access the product tags
+02/23/2023 02:37:52 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:37:52] "POST /review HTTP/1.1" 200 -
+02/23/2023 02:37:52 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:37:52] "[33mGET /style.css HTTP/1.1[0m" 404 -
+02/23/2023 02:37:52 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:37:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+02/23/2023 02:39:01 PM INFO:  * Detected change in '/Users/aneesaro/PycharmProjects/Ineuron projects/Review scraper with aws beanstalk deployment Autoplay  /main.py', reloading
+02/23/2023 02:39:01 PM INFO:  * Restarting with stat
+02/23/2023 02:39:01 PM WARNING:  * Debugger is active!
+02/23/2023 02:39:01 PM INFO:  * Debugger PIN: 976-816-822
+02/23/2023 02:39:07 PM INFO: Succesfully connected big_box
+02/23/2023 02:39:07 PM INFO: Div is not available
+02/23/2023 02:39:09 PM INFO: Sucessfully entered product page
+02/23/2023 02:39:09 PM INFO: Able to access the product tags
+02/23/2023 02:39:09 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:39:09] "POST /review HTTP/1.1" 200 -
+02/23/2023 02:39:09 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:39:09] "[33mGET /style.css HTTP/1.1[0m" 404 -
+02/23/2023 02:39:09 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:39:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+02/23/2023 02:39:17 PM INFO: Succesfully connected big_box
+02/23/2023 02:39:17 PM INFO: Div is not available
+02/23/2023 02:39:20 PM INFO: Sucessfully entered product page
+02/23/2023 02:39:20 PM INFO: Able to access the product tags
+02/23/2023 02:39:20 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:39:20] "POST /review HTTP/1.1" 200 -
+02/23/2023 02:39:20 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:39:20] "[33mGET /style.css HTTP/1.1[0m" 404 -
+02/23/2023 02:39:20 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:39:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+02/23/2023 02:39:29 PM INFO: Succesfully connected big_box
+02/23/2023 02:39:29 PM INFO: Div is not available
+02/23/2023 02:39:31 PM INFO: Sucessfully entered product page
+02/23/2023 02:39:31 PM INFO: Able to access the product tags
+02/23/2023 02:39:31 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:39:31] "POST /review HTTP/1.1" 200 -
+02/23/2023 02:39:31 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:39:31] "[33mGET /style.css HTTP/1.1[0m" 404 -
+02/23/2023 02:39:31 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:39:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+02/23/2023 02:40:31 PM INFO: Succesfully connected big_box
+02/23/2023 02:40:31 PM INFO: Div is not available
+02/23/2023 02:40:33 PM INFO: Sucessfully entered product page
+02/23/2023 02:40:33 PM INFO: Able to access the product tags
+02/23/2023 02:40:33 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:40:33] "POST /review HTTP/1.1" 200 -
+02/23/2023 02:40:33 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:40:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+02/23/2023 02:40:33 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:40:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+02/23/2023 02:41:29 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:41:29] "GET / HTTP/1.1" 200 -
+02/23/2023 02:41:29 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:41:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+02/23/2023 02:41:29 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:41:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+02/23/2023 02:41:33 PM INFO: Succesfully connected big_box
+02/23/2023 02:41:33 PM INFO: Div is not available
+02/23/2023 02:41:35 PM INFO: Sucessfully entered product page
+02/23/2023 02:41:35 PM INFO: Able to access the product tags
+02/23/2023 02:41:35 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:41:35] "POST /review HTTP/1.1" 200 -
+02/23/2023 02:41:35 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:41:35] "[33mGET /style.css HTTP/1.1[0m" 404 -
+02/23/2023 02:41:35 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:41:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+02/23/2023 02:41:46 PM INFO: Succesfully connected big_box
+02/23/2023 02:41:46 PM INFO: Div is not available
+02/23/2023 02:41:46 PM INFO: Div is not available
+02/23/2023 02:41:48 PM INFO: Sucessfully entered product page
+02/23/2023 02:41:48 PM INFO: Able to access the product tags
+02/23/2023 02:41:48 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:41:48] "POST /review HTTP/1.1" 200 -
+02/23/2023 02:41:48 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:41:48] "[33mGET /style.css HTTP/1.1[0m" 404 -
+02/23/2023 02:41:48 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:41:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+02/23/2023 02:41:54 PM INFO: Succesfully connected big_box
+02/23/2023 02:41:54 PM INFO: Div is not available
+02/23/2023 02:41:54 PM INFO: Div is not available
+02/23/2023 02:41:56 PM INFO: Sucessfully entered product page
+02/23/2023 02:41:56 PM INFO: Able to access the product tags
+02/23/2023 02:41:56 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:41:56] "POST /review HTTP/1.1" 200 -
+02/23/2023 02:41:56 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:41:56] "[33mGET /style.css HTTP/1.1[0m" 404 -
+02/23/2023 02:41:56 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:41:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+02/23/2023 02:42:02 PM INFO: Succesfully connected big_box
+02/23/2023 02:42:02 PM INFO: Div is not available
+02/23/2023 02:42:02 PM INFO: Div is not available
+02/23/2023 02:42:04 PM INFO: Sucessfully entered product page
+02/23/2023 02:42:04 PM INFO: Able to access the product tags
+02/23/2023 02:42:04 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:42:04] "POST /review HTTP/1.1" 200 -
+02/23/2023 02:42:04 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:42:04] "[33mGET /style.css HTTP/1.1[0m" 404 -
+02/23/2023 02:42:04 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:42:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+02/23/2023 02:42:27 PM INFO: Succesfully connected big_box
+02/23/2023 02:42:27 PM INFO: Div is not available
+02/23/2023 02:42:27 PM INFO: Div is not available
+02/23/2023 02:42:29 PM INFO: Sucessfully entered product page
+02/23/2023 02:42:29 PM INFO: Able to access the product tags
+02/23/2023 02:42:29 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:42:29] "POST /review HTTP/1.1" 200 -
+02/23/2023 02:42:29 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:42:29] "[33mGET /style.css HTTP/1.1[0m" 404 -
+02/23/2023 02:42:29 PM INFO: 127.0.0.1 - - [23/Feb/2023 14:42:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
